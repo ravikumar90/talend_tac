@@ -113,7 +113,7 @@
     <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
     <elementParameter field="TABLE" name="VALUES">
       <elementValue elementRef="SCHEMA_COLUMN" value="id"/>
-      <elementValue elementRef="VALUE" value=""/>
+      <elementValue elementRef="VALUE" value="&quot;ravi&quot;"/>
     </elementParameter>
     <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
     <elementParameter field="TABLE" name="INTABLE" show="false"/>
